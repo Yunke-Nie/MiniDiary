@@ -3,6 +3,10 @@
 > Author: Naiyi Zhang & Yunke Nie
 >
 > Course Link: [https://johnguerra.co/classes/webDevelopment_fall_2023/](https://johnguerra.co/classes/webDevelopment_fall_2023/)
+>
+> Demo: [https://www.youtube.com/watch?v=XVrqtovFcUE]
+>
+> Deployment: [https://minidairy.onrender.com/]
 
 ## Project Objective
 
